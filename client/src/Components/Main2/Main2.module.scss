@@ -1,0 +1,23 @@
+.wrapper
+{
+    @apply border-4 border-blue-300 rounded-lg w-[99%] mx-auto my-3 font-bold py-4
+}
+.tableRow
+{
+    @apply border-2 border-black rounded-md w-2/3 mx-auto  my-4 
+}
+.th
+{
+    @apply border-b-2 border-black px-5 border-l-2
+}
+.td, .td1
+{
+    @apply px-4 border-t-2 border-black
+}
+.td1
+{
+    @apply border-l-2
+}
+.radarWrapper{
+    @apply border border-black rounded-md mx-auto 
+}
